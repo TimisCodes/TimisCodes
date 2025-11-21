@@ -1,6 +1,6 @@
 👋 Hi, I’m Olabisi Timilehin
 
-I'm a passionate **DevOps enthusiast** and **Full-Stack Web Developer** dedicated to building scalable infrastructure and modern web applications. I thrive at the intersection of **automation, cloud technologies, and collaborative development**.
+I'm a passionate **Product Manager** and **DevOps enthusiast** dedicated to building scalable infrastructure and modern web applications. I thrive at the intersection of **automation, cloud technologies, and collaborative development**.
 
 🔧 Tech Stack & Skills
 - **DevOps**: AWS, Docker, Kubernetes, Terraform, Ansible, GitHub Actions, CI/CD
