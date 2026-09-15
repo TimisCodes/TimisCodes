@@ -1,243 +1,264 @@
 # Hi there! I'm Olabisi Timilehin 👋
 
-I'm a **DevOps & Cloud Engineer** focused on turning infrastructure and deployment challenges into **automated, reliable, and scalable systems**.
+### DevOps Engineer | Cloud Infrastructure | Automation | CI/CD | Kubernetes
 
-I work primarily with **AWS, Terraform, Ansible, Docker, Linux, GitHub Actions, and CI/CD**, with hands-on experience provisioning cloud infrastructure, automating server configuration, containerizing applications, and deploying workloads to AWS.
+I'm a **DevOps Engineer** based in Lagos, Nigeria, focused on designing, automating, deploying, and maintaining reliable cloud infrastructure and application environments.
 
-I'm particularly interested in **Infrastructure as Code, cloud automation, containerization, CI/CD, and monitoring & observability**. I enjoy understanding how infrastructure components connect together and building practical projects that mirror real-world engineering environments.
+I specialize in **AWS, Infrastructure as Code, configuration management, containerization, Kubernetes, CI/CD automation, Linux administration, and monitoring & observability**.
 
-I'm continuously expanding my Kubernetes, cloud, and observability skills while documenting my projects and sharing what I build with the DevOps community.
+I build systems with a strong focus on **automation, scalability, reliability, security, and repeatability** — from provisioning AWS infrastructure with Terraform and configuring servers with Ansible to containerizing applications with Docker, orchestrating workloads with Kubernetes, and automating software delivery through CI/CD pipelines.
 
-📍 Lagos, Nigeria | [LinkedIn](https://www.linkedin.com/in/timilehin-olabisi-271097173/)
+I enjoy solving infrastructure problems, troubleshooting deployment issues, and transforming manual operational processes into efficient automated workflows.
 
+📍 Lagos, Nigeria | 💼 Open to DevOps & Cloud Engineering opportunities | [LinkedIn](https://www.linkedin.com/in/timilehin-olabisi-271097173/)
 
+---
 
-## 🛠 Skills
+## 🛠️ Technical Expertise
 
 ### ☁️ Cloud & Infrastructure
 
 **AWS:** EC2 • VPC • IAM • S3 • RDS • Elastic Load Balancing • Route 53 • CloudWatch • EKS
 
-### 🏗 Infrastructure as Code & Configuration Management
+### 🏗️ Infrastructure as Code
 
-**Terraform:** Modules • Variables • Outputs • AWS Provisioning • Reusable Infrastructure
-**Ansible:** Inventory • Playbooks • Variables • Facts • Handlers • Templates • Roles • Configuration Management
+**Terraform:** Infrastructure Provisioning • Modules • Variables • Outputs • AWS Networking • Reusable Infrastructure
 
-### 🐳 Containers & Orchestration
+### ⚙️ Configuration Management
 
-**Docker:** Images • Containers • Docker Hub • Docker Compose
-**Kubernetes:** EKS • Deployments • Services • Ingress • ALB Integration
+**Ansible:** Inventory Management • Playbooks • Variables • Facts • Handlers • Templates • Roles • Server Configuration • Application Deployment
+
+### 🐳 Containers & Kubernetes
+
+**Docker:** Images • Containers • Docker Hub • Docker Compose • Containerized Applications
+
+**Kubernetes:** Amazon EKS • Deployments • Services • Ingress • ConfigMaps • Secrets • Workloads • Application Load Balancing
 
 ### 🔄 CI/CD & Version Control
 
-**Git & GitHub:** Version Control • Branching • Pull Requests • Webhooks
-**CI/CD:** GitHub Actions • Jenkins • Automated Builds • Automated Deployments
+**Git:** GitHub • GitLab • Branching • Pull Requests • Webhooks • Version Control
+
+**CI/CD:** GitHub Actions • GitLab CI/CD • Jenkins • Automated Builds • Testing • Deployment Automation
 
 ### 📊 Monitoring & Observability
 
-**Monitoring:** Grafana • Prometheus • AWS CloudWatch • Metrics • Dashboards • Alerting • Slack
+**Monitoring:** Grafana • Prometheus • AWS CloudWatch • Metrics • Dashboards • Alerting • Contact Points • Slack Notifications
 
 ### 🐧 Linux & Automation
 
 **Linux:** Ubuntu • CentOS • SSH • Nginx • Package Management • Server Administration
-**Automation:** Bash • Shell Scripting
 
-### 💻 Development
+**Automation:** Bash • Shell Scripting • YAML
 
-**Languages & Frameworks:** JavaScript • HTML • CSS • React • Node.js • Express.js
-**Database & API:** PostgreSQL • REST APIs • Postman • WordPress
+### 💻 Development & Databases
 
+**Development:** JavaScript • HTML • CSS • React • Node.js • Express.js
 
+**Database & APIs:** PostgreSQL • REST APIs • Postman • WordPress
+
+---
 
 # 📌 Featured Projects
 
-### 1. ☁️ AWS Infrastructure with Terraform
+## ☁️ AWS Infrastructure with Terraform
 
-Provisioned a complete AWS environment using **Terraform** with a modular and reusable Infrastructure-as-Code approach.
+Designed and provisioned AWS infrastructure using a **modular Infrastructure-as-Code approach with Terraform**.
 
-**Infrastructure:** VPC • Public & Private Subnets • Internet Gateway • Route Tables • Security Groups • EC2 • S3
+The architecture includes:
 
-**Tools:** `Terraform` `AWS` `VPC` `EC2` `S3` `IAM`
+**VPC** • **Public & Private Subnets** • **Internet Gateway** • **Route Tables** • **Security Groups** • **EC2** • **S3**
+
+The infrastructure is structured for **reusability, consistency, and maintainability**, enabling repeatable cloud deployments.
+
+**Stack:** `Terraform` `AWS` `VPC` `EC2` `S3` `IAM`
 
 ---
 
-### 2. ☸️ Amazon EKS — 2048 Game Deployment
+## ☸️ Amazon EKS — 2048 Application Deployment
 
-Deployed a containerized **2048 game application to Amazon EKS**, exposing the application externally through Kubernetes Ingress and an AWS Application Load Balancer.
+Deployed a containerized **2048 application to Amazon EKS**, exposing the application externally through Kubernetes Ingress and an AWS Application Load Balancer.
 
-**Implementation:** EKS • Kubernetes Deployments • Services • Ingress • ALB • Containerized Application • Traffic Routing
+### Key Implementation
 
-I also troubleshot **ALB finalizer and webhook-related issues**, gaining practical experience diagnosing Kubernetes deployment and networking problems.
+**Amazon EKS** • **Kubernetes Deployments** • **Services** • **Ingress** • **AWS ALB** • **Containerized Application** • **Traffic Routing**
 
-**Tools:** `AWS EKS` `Kubernetes` `Docker` `Ingress` `ALB`
+The project involved troubleshooting **ALB finalizer and webhook-related issues**, demonstrating practical experience diagnosing Kubernetes infrastructure, networking, and deployment problems.
 
+**Stack:** `AWS EKS` `Kubernetes` `Docker` `Ingress` `ALB`
 
-### 3. 🐳 Docker + AWS EC2 Deployment
+---
 
-Containerized and deployed a web application on an **AWS EC2 Ubuntu server**.
+## 🐳 Docker + AWS EC2 Application Deployment
 
-**Implementation:** EC2 • Ubuntu • Docker Installation • Custom Images • Docker Hub • Docker Compose • Application Deployment
+Containerized and deployed a web application on an **AWS EC2 Ubuntu environment**.
 
-**Tools:** `AWS EC2` `Ubuntu` `Docker` `Docker Compose` `Docker Hub`
+### Key Implementation
 
+**EC2 Provisioning** • **Ubuntu Configuration** • **Docker Installation** • **Custom Docker Images** • **Docker Hub** • **Docker Compose** • **Application Deployment**
 
-### 4. 🔄 GitHub Actions CI/CD Pipeline
+The deployment demonstrates how containerization provides a consistent application runtime across development and cloud environments.
 
-Built a CI/CD workflow to automate application build and deployment using **GitHub Actions**.
+**Stack:** `AWS EC2` `Ubuntu` `Docker` `Docker Compose` `Docker Hub`
+
+---
+
+## 🔄 CI/CD — GitHub Actions & GitLab CI/CD
+
+Designed automated CI/CD workflows that connect source control, application builds, testing, and deployment.
 
 ```text
 Developer
-    ↓
+    │
+    ▼
 Git Push
-    ↓
-GitHub Repository
-    ↓
-GitHub Actions
-    ↓
-Build & Test
-    ↓
-Deploy
-    ↓
-AWS EC2
-    ↓
-Running Application
+    │
+    ├───────────────┐
+    ▼               ▼
+ GitHub           GitLab
+    │               │
+    ▼               ▼
+GitHub Actions   GitLab CI/CD
+    │               │
+    └───────┬───────┘
+            ▼
+       Build & Test
+            │
+            ▼
+         Deploy
+            │
+            ▼
+       Cloud / Server
+            │
+            ▼
+      Running Application
 ```
 
-**Tools:** `Git` `GitHub` `GitHub Actions` `AWS EC2` `CI/CD`
+**Stack:** `Git` `GitHub` `GitLab` `GitHub Actions` `GitLab CI/CD` `AWS` `CI/CD`
 
 ---
 
-### 5. ⚙️ Ansible Configuration Management
+## ⚙️ Ansible Infrastructure Automation
 
-Built hands-on Ansible environments for automating Linux server configuration and application setup.
+Automated Linux server configuration and application setup using **Ansible**.
 
-**Practiced:** Inventory • Ad-hoc Commands • Playbooks • Variables • Variable Precedence • Facts • Conditionals • Handlers • Templates • Roles
+### Automation Areas
 
-**Automation:** Package Installation • User Management • Web Server Configuration • Database Configuration • Server Provisioning
+**Inventory Management** • **Ad-hoc Commands** • **Playbooks** • **Variables** • **Variable Precedence** • **Facts** • **Conditionals** • **Handlers** • **Templates** • **Roles**
 
-**Tools:** `Ansible` `Linux` `YAML` `Bash` `SSH`
+### Infrastructure Tasks
 
-Example environment:
+**Package Installation** • **User Management** • **Web Server Configuration** • **Database Configuration** • **File Management** • **Service Management**
 
 ```text
-                  Ansible Control Node
-                          │
-             ┌────────────┼────────────┐
-             ↓            ↓            ↓
-          Web01         Web02        DB01
-             │            │            │
-             └────────────┼────────────┘
-                          ↓
-                Automated Configuration
+                 Ansible Control Node
+                         │
+             ┌───────────┼───────────┐
+             ▼           ▼           ▼
+           Web01       Web02       DB01
+             │           │           │
+             └───────────┼───────────┘
+                         ▼
+              Automated Infrastructure
 ```
+
+**Stack:** `Ansible` `Linux` `YAML` `Bash` `SSH`
 
 ---
 
-### 6. 📊 Monitoring & Observability
+## 📊 Monitoring & Observability
 
-Built hands-on monitoring workflows around infrastructure metrics, dashboards, and alerting.
+Implemented monitoring and alerting workflows to provide visibility into infrastructure and application health.
 
-**Monitoring:** Grafana • Prometheus • AWS CloudWatch • Metrics • Dashboards • Alert Rules • Contact Points • Slack Notifications
+### Capabilities
 
-The goal is to move beyond simply **deploying infrastructure** and understand how to detect unhealthy systems, investigate issues, and receive actionable alerts.
+**Metrics Collection** • **Grafana Dashboards** • **CloudWatch Monitoring** • **Alert Rules** • **Contact Points** • **Slack Notifications**
 
-**Tools:** `Grafana` `Prometheus` `CloudWatch` `Slack`
+The monitoring workflow enables infrastructure issues to be detected and communicated quickly rather than relying solely on manual checks.
 
+**Stack:** `Grafana` `Prometheus` `AWS CloudWatch` `Slack`
 
-# 🧠 DevOps Journey
+---
 
-My learning path is focused on progressing from infrastructure fundamentals toward **production-grade cloud engineering**.
+# 🏗️ DevOps Capabilities
 
-```text
-Linux & Bash
-      ↓
-Git & GitHub
-      ↓
-AWS
-      ↓
-Docker
-      ↓
-Terraform
-      ↓
-Ansible
-      ↓
-CI/CD
-      ↓
-Monitoring & Observability
-      ↓
-Kubernetes & EKS
-      ↓
-Production-Grade Cloud Engineering
-```
+### Cloud Infrastructure
 
+Design and provision AWS environments using **Infrastructure as Code**, with a focus on reliability, security, scalability, and maintainability.
 
-# 🔭 Currently Building
+### Infrastructure Automation
 
-I'm focused on strengthening my practical DevOps skills through **end-to-end projects** rather than learning individual tools in isolation.
+Automate infrastructure provisioning and server configuration using **Terraform, Ansible, and Bash**.
 
-**Current Focus:** AWS Cloud Architecture • Terraform • Ansible • Docker • CI/CD • Monitoring & Observability • Kubernetes • EKS • Linux • Cloud Security
+### Containerization & Orchestration
 
+Build containerized applications with **Docker** and deploy and manage workloads using **Kubernetes and Amazon EKS**.
 
-# 📈 Engineering Philosophy
+### CI/CD
 
-I believe effective DevOps is not about simply collecting tools.
+Build automated software delivery pipelines using **GitHub Actions, GitLab CI/CD, and Jenkins**, connecting source control, builds, testing, and deployment.
 
-It's about understanding the **entire lifecycle of an application**:
+### Monitoring & Observability
 
-```text
-Plan
-  ↓
-Code
-  ↓
-Build
-  ↓
-Test
-  ↓
-Provision
-  ↓
-Deploy
-  ↓
-Monitor
-  ↓
-Troubleshoot
-  ↓
-Improve
-```
+Implement **metrics, dashboards, monitoring, and alerting** to provide visibility into infrastructure and application health.
 
-My goal is to build systems that are **automated, observable, repeatable, secure, and maintainable**.
+### Troubleshooting
 
+Systematically diagnose infrastructure and deployment issues across **Linux, AWS, Docker, Kubernetes, networking, configuration, and application environments**.
 
+---
 
-# 🚀 2026 Goals
+# 💼 What I Bring to a DevOps Team
 
-* ☁️ Build production-style AWS architectures
-* 🏗️ Develop advanced Terraform infrastructure
-* ⚙️ Strengthen Ansible automation
-* 🐳 Build advanced Docker workflows
-* ☸️ Deepen Kubernetes & EKS expertise
-* 🔄 Develop production-ready CI/CD pipelines
-* 📊 Strengthen monitoring and observability
-* 🔐 Improve cloud security practices
-* 🌎 Contribute to open-source projects
-* 💼 Secure an international **DevOps / Cloud Engineering** opportunity
+* ☁️ **AWS Cloud Infrastructure**
+* 🏗️ **Infrastructure as Code with Terraform**
+* ⚙️ **Configuration Management with Ansible**
+* 🐳 **Docker & Containerization**
+* ☸️ **Kubernetes & Amazon EKS**
+* 🔄 **GitHub Actions & GitLab CI/CD**
+* 🔧 **Jenkins & CI/CD Automation**
+* 🐧 **Linux Administration & Bash**
+* 📊 **Grafana, Prometheus & CloudWatch**
+* 🔔 **Infrastructure Alerting & Monitoring**
+* 🔐 **Cloud & Infrastructure Security**
+* 🧩 **Infrastructure Troubleshooting**
+* 🤝 **Collaboration, Documentation & Problem Solving**
 
+---
 
-# ✍️ Technical Writing
+# 🔧 Engineering Approach
 
-I document my DevOps projects, troubleshooting experiences, infrastructure experiments, and lessons learned through technical writing.
+I approach DevOps with a simple principle:
+
+> **Build it. Automate it. Deploy it. Monitor it. Improve it.**
+
+My focus is not simply on using tools, but on understanding how **infrastructure, applications, networking, security, automation, and observability** work together to create reliable engineering environments.
+
+---
+
+# 🌐 Professional Interests
+
+**DevOps Engineering** • **Cloud Engineering** • **Platform Engineering** • **Infrastructure Automation** • **Site Reliability Engineering** • **Cloud-Native Architecture** • **Kubernetes** • **CI/CD** • **Infrastructure as Code**
+
+---
+
+# 📚 Technical Writing
+
+I document practical DevOps projects, infrastructure implementations, troubleshooting experiences, and engineering insights through technical writing.
 
 I believe **building is only half of the journey — documenting what you build makes the knowledge reusable.**
 
+---
 
 # 🤝 Let's Connect
 
 📍 **Lagos, Nigeria**
 
-🌐 **LinkedIn:** [Timilehin Olabisi](https://www.linkedin.com/in/timilehin-olabisi-271097173/)
+💼 **Open to DevOps & Cloud Engineering opportunities**
 
-💻 **GitHub:** You're already here 😄
+🌐 [LinkedIn — Timilehin Olabisi](https://www.linkedin.com/in/timilehin-olabisi-271097173/)
 
-⭐ If you find any of my projects useful, feel free to explore the repositories and follow the journey.
+⭐ Explore my repositories to see my infrastructure, automation, containerization, Kubernetes, and CI/CD work.
 
+---
 
-### ⚡ Automate. Deploy. Monitor. Troubleshoot. Improve.
+### ⚡ Automate. Deploy. Monitor. Scale.
