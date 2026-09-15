@@ -31,7 +31,7 @@ Lagos, Nigeria | Open to DevOps & Cloud Engineering opportunities
 
 **Systems:** Linux • Ubuntu • CentOS • Windows • Nginx • SSH • Tomcat
 
-**💻 Programming & Development:** Python • JavaScript • Node.js • React • HTML • CSS • PostgreSQL • REST APIs
+**Programming & Development:** Python • JavaScript • Node.js • React • HTML • CSS • PostgreSQL • REST APIs
 
 ---
 
@@ -87,4 +87,4 @@ Implemented infrastructure monitoring, metrics, dashboards, centralized logging,
 
 ---
 
-### ⚡ Automate. Secure. Deploy. Monitor. Scale.
+###  Automate. Secure. Deploy. Monitor. Scale.
