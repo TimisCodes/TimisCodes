@@ -13,21 +13,21 @@ I specialize in **AWS, Terraform, Ansible, Docker, Kubernetes, Amazon EKS, CI/CD
 
 ## 🛠 Skills
 
-** Cloud:** AWS • EC2 • VPC • IAM • S3 • RDS • ELB • Route 53 • CloudWatch • EKS
+**Cloud:** AWS • EC2 • VPC • IAM • S3 • RDS • ELB • Route 53 • CloudWatch • EKS
 
-** IaC & Automation:** Terraform • Ansible • Bash • YAML
+**IaC & Automation:** Terraform • Ansible • Bash • YAML
 
-** Containers:** Docker • Docker Compose • Docker Hub
+**Containers:** Docker • Docker Compose • Docker Hub
 
-** Kubernetes:** Kubernetes • Amazon EKS • Deployments • Services • Ingress • ALB
+**Kubernetes:** Kubernetes • Amazon EKS • Deployments • Services • Ingress • ALB
 
-** CI/CD:** GitHub Actions • GitLab CI/CD • Jenkins • Git • GitHub • GitLab
+**CI/CD:** GitHub Actions • GitLab CI/CD • Jenkins • Git • GitHub • GitLab
 
-** Monitoring:** Grafana • Prometheus • CloudWatch • Alerting • Slack
+**Monitoring:** Grafana • Prometheus • CloudWatch • Alerting • Slack
 
-** Systems:** Linux • Ubuntu • CentOS • Nginx • SSH
+**Systems:** Linux • Ubuntu • CentOS • Nginx • SSH
 
-** Development:** JavaScript • Node.js • React • HTML • CSS • PostgreSQL • REST APIs
+**Development:** JavaScript • Node.js • React • HTML • CSS • PostgreSQL • REST APIs
 
 ---
 
