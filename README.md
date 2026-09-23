@@ -43,7 +43,7 @@ End-to-end CI/CD and observability platform deploying a containerized web applic
 
 **Stack:** `AWS EC2` `Terraform` `Ansible` `Docker` `GitHub Actions` `Nginx` `Prometheus` `Grafana`
 
-👉 **[View Repository](https://github.com/TimisCodes/production-monitoring-project)**
+**[View Repository](https://github.com/TimisCodes/production-monitoring-project)**
 
 ###  Amazon EKS — 2048 Deployment
 
