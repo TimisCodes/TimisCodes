@@ -37,13 +37,12 @@ Lagos, Nigeria | Open to DevOps & Cloud Engineering opportunities
 
 ## 🚀 Featured Projects
 
-### 🛍️ Production Web Application & Monitoring Platform
+### [Production Web Application & Monitoring Platform](https://github.com/TimisCodes/production-monitoring-project)
 
 End-to-end CI/CD and observability platform deploying a containerized web application (**GadgetStore**) to **AWS EC2** using **GitHub Actions**, **Terraform**, **Ansible**, **Prometheus**, and **Grafana**.
 
 **Stack:** `AWS EC2` `Terraform` `Ansible` `Docker` `GitHub Actions` `Nginx` `Prometheus` `Grafana`
 
-**[View Repository](https://github.com/TimisCodes/production-monitoring-project)**
 
 ###  Amazon EKS — 2048 Deployment
 
